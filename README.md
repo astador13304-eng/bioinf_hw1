@@ -1,5 +1,5 @@
 # bioinf_hw1
-Я выполняла работу локально в colab https://colab.research.google.com/drive/1PkHVmOxKpTEcfBeP9A0Pv8cqrBjkbTqH?usp=sharing
+Я выполняла работу локально в colab https://colab.research.google.com/drive/1PkHVmOxKpTEcfBeP9A0Pv8cqrBjkbTqH?usp=sharing \n
 FastQC (до подрезаний адаптеров)
 <img width="1284" height="618" alt="first_before" src="https://github.com/user-attachments/assets/1bb84485-2f2f-4146-aab9-006190820b0b" />
 <img width="1280" height="633" alt="second_before" src="https://github.com/user-attachments/assets/b69b85d9-d23b-4dc6-be71-bd57cbfedfa8" />
